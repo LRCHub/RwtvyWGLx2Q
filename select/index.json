@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "正解はいらない",
+  "base_artist": "ナナヲアカリ",
+  "createdAt": "2026-03-20T12:27:36.242972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "正解はいらない",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/01_正解はいらない_ナナヲアカリ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "正解はいらない",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/pl_01_正解はいらない_ナナヲアカリ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "正解はいらない",
+      "artist": "ナナヲアカリ",
+      "has_synced": false,
+      "path": "select/localdb_01_正解はいらない_ナナヲアカリ.txt",
+      "repo_name": "RwtvyWGLx2Q"
+    }
+  ]
+}
